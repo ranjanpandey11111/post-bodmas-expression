@@ -1,4 +1,4 @@
-# Nodejs, Express 4, MongoDB + Mongoose API boilerplate
+# Nodejs, Express 4, MongoDB bodmas expression 
 
 Supports either a locally-running MongoDB or MongoDB as-a-service
 
