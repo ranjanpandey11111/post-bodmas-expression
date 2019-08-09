@@ -6,7 +6,12 @@ Supports either a locally-running MongoDB or MongoDB as-a-service
  {
      "expression": "(1 + 3 * (4 - 2) - 15 / 5)"
   }
+  
   resonse will be 
+  {
+    "expression": "(1 + 3 * (4 - 2) - 15 / 5)",
+    "answer": 4
+}
 .
 
 
