@@ -1,0 +1,30 @@
+{
+  "name": "node-mongodb-api-bodmas-expression",
+  "description": "nodejs api boilerplate",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ranjan Kumar Pandey"
+  },
+  "dependencies": {
+    "basic-auth": "^1.0.3",
+    "body-parser": "^1.14.1",
+    "compression": "^1.6.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.1",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "lint": "standard",
+    "test": "exit 0"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "license": ""
+}
